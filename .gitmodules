@@ -1,0 +1,3 @@
+[submodule "protos/scala-grpc-sample"]
+	path = protos/scala-grpc-sample
+	url = git@github.com:hideto0710/scala-grpc-sample.git
